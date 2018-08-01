@@ -5,7 +5,7 @@ Installation du module : <br>
 Onglet Module -> Avancé : <br>
 Nom : Script-Exec <br>
 Version : 0.1 <br>
-URL : https://github.com/J0lan/gladys-scriptexec.git <br>
+URL : https://github.com/J0lan/gladys-script-exec <br>
 **slug : scriptexec** <br>
 
 
