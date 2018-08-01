@@ -1,19 +1,17 @@
 {
-  "name": "ScriptExec",
-  "version": "0.1",
-  "description": "This module add the possibility to Gladys to execute script with personnal sentences.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "gladys",
-    "module",
-    "script",
-    "scriptexec",
-    "sentences",
-
-  ],
-  "author": "Jolan MOREAU"
-
+	"name": "script-exec",
+	"version": "0.1",
+	"description": "This module add the possibility to Gladys to execute script with personnal sentences.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"gladys",
+		"module",
+		"script",
+		"scriptexec",
+		"sentences"
+	],
+	"author": "Jolan MOREAU"
 }
