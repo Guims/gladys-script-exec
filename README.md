@@ -3,7 +3,7 @@ Permet d'ajouter la possibilités à Gladys de lancer des scripts avec des comma
 
 Installation du module : <br>
 Onglet Module -> Avancé : <br>
-Nom : ScriptExec <br>
+Nom : Script-Exec <br>
 Version : 0.1 <br>
 URL : https://github.com/J0lan/gladys-scriptexec.git <br>
 **slug : scriptexec** <br>
